@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1751525179 source:/home/acherontas/codeblock/sqrt_weirdo_bee_arm64/main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+	<thread>
+
